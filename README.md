@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matt
 - 👀 I’m interested in learning python
-- 🌱 I’m currently learning zero to hero bootcamps aong with others
+- 🌱 I’m currently learning zero to hero bootcamps along with other courses and reading literature
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
